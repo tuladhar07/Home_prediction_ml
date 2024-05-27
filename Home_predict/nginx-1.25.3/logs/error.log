@@ -1,0 +1,1 @@
+2024/02/08 17:50:28 [error] 4852#32016: *1 CreateFile() "E:\practice\ML_basics\Home_predict\nginx-1.25.3/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
